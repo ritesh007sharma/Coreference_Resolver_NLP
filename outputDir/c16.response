@@ -1,0 +1,54 @@
+<COREF ID="X0">Pneumovirus</COREF>
+{2} {_Metapneumovirus_}
+{3} {pneumovirus}
+{4} {metapneumovirus}
+{6} {metapneumovirus}
+{7} {_Pneumovirus_}
+{8} {metapneumovirus}
+{10} {_Metapneumovirus_}
+{11} {metapneumovirus}
+
+<COREF ID="X1">Children</COREF>
+{1} {children}
+{5} {children}
+{6} {children}
+{7} {children}
+{8} {children}
+{9} {children}
+{11} {children}
+
+<COREF ID="X2">Bernadette G, van den Hoogen, Jan C. de Jong, Jan Goen, Thijs Kuiken, Ronald de Groot, Ron A.M. Fouchier and Albert D.M.E. Osterhaus</COREF>
+
+<COREF ID="X3">isolation and characterisation</COREF>
+{8} {isolation}
+
+<COREF ID="X4">the Netherlands</COREF>
+{6} {the Netherlands}
+{6} {Netherlands}
+
+<COREF ID="X5">_Metapneumovirus_</COREF>
+{4} {metapneumovirus}
+{6} {metapneumovirus}
+{8} {metapneumovirus}
+{10} {_Metapneumovirus_}
+{11} {metapneumovirus}
+
+<COREF ID="X6">member</COREF>
+{10} {member}
+
+<COREF ID="X7">human respiratory syncytial virus</COREF>
+{7} {Human respiratory syncytial virus}
+{6} {virus}
+{7} {virus}
+{8} {virus}
+{9} {virus}
+{10} {virus}
+
+<COREF ID="X8">infection</COREF>
+{9} {infection}
+{11} {infection}
+
+<COREF ID="X9">reagents</COREF>
+
+<COREF ID="X10">Mod.CP</COREF>
+

@@ -1,0 +1,124 @@
+<COREF ID="X0">OPEC</COREF>
+{6} {OPEC}
+{7} {OPEC}
+{9} {OPEC}
+{10} {OPEC}
+{11} {OPEC}
+{12} {OPEC}
+{12} {OPEC}
+{14} {OPEC}
+{17} {OPEC}
+{18} {OPEC}
+{19} {OPEC}
+{20} {OPEC}
+{21} {OPEC}
+{22} {OPEC}
+{23} {OPEC}
+{24} {OPEC}
+{25} {OPEC}
+{26} {OPEC}
+
+<COREF ID="X1">a Price War</COREF>
+{5} {war}
+{19} {war}
+
+<COREF ID="X2">Output</COREF>
+{6} {output}
+{7} {output}
+{16} {output}
+{18} {output}
+{23} {output}
+{24} {output}
+
+<COREF ID="X3">Quota Violator</COREF>
+{7} {quota violator}
+{7} {violator}
+
+<COREF ID="X4">price</COREF>
+{20} {price}
+{20} {prices}
+
+<COREF ID="X5">a sharp rise in OPEC production</COREF>
+{14} {production}
+{15} {production}
+{24} {production}
+
+<COREF ID="X6">a day</COREF>
+{6} {a day}
+{7} {a day}
+{11} {a day}
+{15} {a day}
+{24} {a day}
+{24} {a day}
+{26} {a day}
+
+<COREF ID="X7">20 million barrels a day early this month</COREF>
+{7} {barrels}
+{11} {barrels}
+{15} {barrels}
+{24} {barrels}
+{26} {barrels}
+
+<COREF ID="X8">its own output</COREF>
+
+<COREF ID="X9">a targeted 1.5 million barrels a day</COREF>
+{24} {barrels}
+
+<COREF ID="X10">Saudi Arabia</COREF>
+{23} {Saudi Arabia}
+{23} {Arabia}
+
+<COREF ID="X11">its government</COREF>
+{14} {government}
+
+<COREF ID="X12">conciliatory gestures to OPEC</COREF>
+{10} {gestures}
+
+<COREF ID="X13">yesterday</COREF>
+{14} {yesterday}
+{21} {yesterday}
+
+<COREF ID="X14">Abu Dhabi</COREF>
+{20} {Abu Dhabi}
+{20} {Dhabi}
+
+<COREF ID="X15">OPEC's new secretary-general, Subroto</COREF>
+
+<COREF ID="X16">Sheik Zayed Al Nahyyan, the</COREF>
+
+<COREF ID="X17">Rilwanu Lukman, Nigeria</COREF>
+
+<COREF ID="X18">its assigned quota of 948,000 barrels a day</COREF>
+{14} {quota}
+{17} {quota}
+
+<COREF ID="X19">the round of talks with Mr. Subroto</COREF>
+{22} {talks}
+
+<COREF ID="X20">the Emirates' official news agency</COREF>
+
+<COREF ID="X21">oil</COREF>
+{17} {oil}
+{20} {oil}
+{20} {oil}
+{25} {oil}
+{25} {oil}
+
+<COREF ID="X22">such excess output by the Emirates</COREF>
+
+<COREF ID="X23">the world oil markets</COREF>
+{25} {markets}
+
+<COREF ID="X24">That</COREF>
+
+<COREF ID="X25">other exporters</COREF>
+
+<COREF ID="X26">the meeting</COREF>
+
+<COREF ID="X27">just over 19 million barrels a day</COREF>
+
+<COREF ID="X28">Charles L. McSpadden, manager</COREF>
+
+<COREF ID="X29">Antonio M. Szabo, manager</COREF>
+{26} {Szabo}
+
